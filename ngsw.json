@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1626103251236,
-  "index": "https://tanykazy.github.io/tanykazy/notedown/index.html",
+  "timestamp": 1626104574633,
+  "index": "https://tanykazy.github.io/notedown/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://tanykazy.github.io/tanykazy/notedown/favicon.ico",
-        "https://tanykazy.github.io/tanykazy/notedown/index.html",
-        "https://tanykazy.github.io/tanykazy/notedown/main.cf2a952576c7e19afe06.js",
-        "https://tanykazy.github.io/tanykazy/notedown/manifest.webmanifest",
-        "https://tanykazy.github.io/tanykazy/notedown/polyfills.c36f50b914d285898ffe.js",
-        "https://tanykazy.github.io/tanykazy/notedown/runtime.8f7cb88608c889c076e8.js",
-        "https://tanykazy.github.io/tanykazy/notedown/styles.787a40831f900fe643f6.css"
+        "https://tanykazy.github.io/notedown/favicon.ico",
+        "https://tanykazy.github.io/notedown/index.html",
+        "https://tanykazy.github.io/notedown/main.cf2a952576c7e19afe06.js",
+        "https://tanykazy.github.io/notedown/manifest.webmanifest",
+        "https://tanykazy.github.io/notedown/polyfills.c36f50b914d285898ffe.js",
+        "https://tanykazy.github.io/notedown/runtime.8f7cb88608c889c076e8.js",
+        "https://tanykazy.github.io/notedown/styles.787a40831f900fe643f6.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-128x128.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-144x144.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-152x152.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-192x192.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-384x384.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-512x512.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-72x72.png",
-        "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-96x96.png"
+        "https://tanykazy.github.io/notedown/assets/icons/icon-128x128.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-144x144.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-152x152.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-192x192.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-384x384.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-512x512.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-72x72.png",
+        "https://tanykazy.github.io/notedown/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://tanykazy.github.io/tanykazy/notedown/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://tanykazy.github.io/tanykazy/notedown/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://tanykazy.github.io/tanykazy/notedown/index.html": "c36b7461e2ce7e768c61226ca16e2ff8b7cc7f12",
-    "https://tanykazy.github.io/tanykazy/notedown/main.cf2a952576c7e19afe06.js": "a098eeccb6cd87d35cd5607ba6521d7f3db4d0b9",
-    "https://tanykazy.github.io/tanykazy/notedown/manifest.webmanifest": "122ca909cf154f31ed72d3d67cc6c0a05b98627e",
-    "https://tanykazy.github.io/tanykazy/notedown/polyfills.c36f50b914d285898ffe.js": "9e9964f5bd1ada66da7a10075bcbbc13801cfb94",
-    "https://tanykazy.github.io/tanykazy/notedown/runtime.8f7cb88608c889c076e8.js": "119afcb531afcf03b022b7cdafc4461d374432ce",
-    "https://tanykazy.github.io/tanykazy/notedown/styles.787a40831f900fe643f6.css": "d63c2b8b673f591efe96714c2bbf78e3dfd62eab"
+    "https://tanykazy.github.io/notedown/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://tanykazy.github.io/notedown/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://tanykazy.github.io/notedown/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://tanykazy.github.io/notedown/index.html": "4590ef4d86201e2b143307023e73784c07ca26fe",
+    "https://tanykazy.github.io/notedown/main.cf2a952576c7e19afe06.js": "a098eeccb6cd87d35cd5607ba6521d7f3db4d0b9",
+    "https://tanykazy.github.io/notedown/manifest.webmanifest": "122ca909cf154f31ed72d3d67cc6c0a05b98627e",
+    "https://tanykazy.github.io/notedown/polyfills.c36f50b914d285898ffe.js": "9e9964f5bd1ada66da7a10075bcbbc13801cfb94",
+    "https://tanykazy.github.io/notedown/runtime.8f7cb88608c889c076e8.js": "119afcb531afcf03b022b7cdafc4461d374432ce",
+    "https://tanykazy.github.io/notedown/styles.787a40831f900fe643f6.css": "d63c2b8b673f591efe96714c2bbf78e3dfd62eab"
   },
   "navigationUrls": [
     {
