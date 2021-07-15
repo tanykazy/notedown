@@ -1,5 +1,5 @@
-<mat-form-field class="full-width full-height" appearance="fill">
+<mat-form-field class="note" appearance="fill">
     <mat-label>Note Down</mat-label>
-    <textarea matInput autofocus placeholder="Markdown text" [(ngModel)]="value"
+    <textarea matInput autofocus placeholder="Markdown text" type="text" [(ngModel)]="value"
         (ngModelChange)="onNgModelChange($event)"></textarea>
 </mat-form-field>

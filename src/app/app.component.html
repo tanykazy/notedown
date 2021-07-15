@@ -1,8 +1,8 @@
-<mat-grid-list cols="1">
-  <mat-grid-tile>
-    <app-note (changeValue)="onChangeValue($event)"></app-note>
+<mat-grid-list cols="1" gutterSize="1" rowHeight="50%">
+  <mat-grid-tile colspan="1" rowspan="1">
+    <app-note class="full-size" (changeValue)="onChangeValue($event)"></app-note>
   </mat-grid-tile>
-  <mat-grid-tile>
-    <app-down [text]="text"></app-down>
+  <mat-grid-tile colspan="1" rowspan="1">
+    <app-down class="full-size" [text]="text"></app-down>
   </mat-grid-tile>
 </mat-grid-list>
